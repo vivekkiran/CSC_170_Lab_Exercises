@@ -23,4 +23,4 @@ if numberOfFibonacciTerms <= 0:
 else:
     print("Fibonacci sequence:")
     for i in range(numberOfFibonacciTerms):
-        print fibonacci_formula(i)
+        print(fibonacci_formula(i))
