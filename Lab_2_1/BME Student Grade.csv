@@ -1,0 +1,40 @@
+CourseID,Course Name,Credit,Semester,Grade
+ISCI225,Integrated Science III and Lab,4,FA19,A
+MATH125,Calculus II,5,FA20,C
+MATH225,Calculus III,4,FA21,D
+MATH321,Differential Equations,3,FA22,A
+MATH381,Introduction to Probability and Statistics,3,SP19,A
+MATH481,Probability and Statistics,3,SP20,B
+BME101,Introduction to Biomedical Engineering,2,SP21,B
+CSC170,Programming for Engineering & Science,3,SP22,A
+PHYS211,Physics I,4,SU19,A
+BME214,Statics,3,SU20,A
+BME232,Property of Materials,3,SU21,A
+CHEM326,Organic Chemistry I and Lab,5,SU22,D
+CHEM328,Organic Chemistry II and Lab,5,FA20,F
+CHEM330,Structure Function Biomolecules,,FA21,D
+BME301,Engineering Economics,3,FA22,W
+BME300,Quantitative Systems Physiology I,3,FA23,A
+BME302,Quantitative Systems Physiology II,3,SP20,A
+BME335,Biomedical Technologies,4,SP21,A
+BME303,Introduction to Biomechanics,4,SP22,A
+BME304,Biomedical Eng. Fluid Mechanics,3,SP23,B
+BME305,Biomedical Eng. Transport Phenomena,3,SU20,W
+BME306,Biomedical Eng. Thermodynamics,3,SU21,A
+BME401,Biomaterials,3,SU22,A
+BME401,Biomaterials,3,FA19,A
+BME463L,Biomedical Engineering Lab,1,FA20,B
+BME464,Senior Design I,3,FA21,B
+BME465,Senior Design II,3,FA22,B
+BME307,Experimental Design,3,SP22,B
+BME308,Biomedical Engineering for Global Health,3,SU19,B
+BME402,Computational Biomedical Engineering,4,SU20,C
+BME404,Biomedical Signal and Imaging,4,SU21,C
+BME405,Cell and Tissue Engineering,4,SU22,B
+BME425,Medical Product Development,3,FA20,B
+BME450,Regulatory Pathways in Medical Prod. Dev.,3,SP22,B
+BME586,Immuno-Engineering,3,SU19,W
+BME408,Biomedical Engineering,3,SU20,D
+BME528,Applied Finite Element Analysis/Lab,3,SU21,C
+BME606,Occupational Biomechanics,3,SU22,A
+EE301,"Intro Circuits, Machines and Systems/Lab",4,FA20,A
